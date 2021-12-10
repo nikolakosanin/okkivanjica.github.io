@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://<!--URL WEB SAJTA-->>/index.html</loc>
+		<lastmod></lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.90</priority>
+	</url>
+	<url>
+		<loc><!--URL WEB SAJTA-->/galerija.html</loc>
+		<lastmod></lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.75</priority>
+	</url>
+	<url>
+		<loc><!--URL WEB SAJTA-->/tabela.html</loc>
+		<lastmod></lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority>
+	</url>	
+	<url>
+		<loc><!--URL WEB SAJTA-->/igraci.html</loc>
+		<lastmod></lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.70</priority>
+	</url>
+	<url>
+		<loc><!--URL WEB SAJTA-->/autor.html</loc>
+		<lastmod></lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.65</priority>
+	</url>
+</urlset>

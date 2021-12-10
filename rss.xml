@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Najnovije vesti o OKK Ivanjici</title>
+		<link><!--URL WEB SAJTA-->/index.html</link>
+		<description>Vesti i rezultati o košarkaškom klubu iz Ivanjice</description>
+		<item>
+			<title>Trenutno stanje na tabeli</title>
+			<link><!--URL WEB SAJTA-->/tabela.html</link>
+			<description>Stanje na tabeli OKK Ivanjice uporedo sa ostalim ekipama prve regionalne lige zapad grupe B</description>
+		</item>
+		<item>
+			<title>Prelazak igrača</title>
+			<link><!--URL WEB SAJTA-->/igraci.html</link>
+			<description>Vesti o transferu igrača</description>
+		</item>
+	</channel>
+</rss>

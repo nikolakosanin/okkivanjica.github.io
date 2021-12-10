@@ -1,0 +1,275 @@
+*{
+    margin: 0px;
+    padding: 0px;
+	font-family: 'Outfit', sans-serif;
+}
+
+header{
+    background-color:#1578B7;
+    display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align:center;
+	padding: 10px 0;
+	font-size:30px;
+	color:#ef4001;
+}
+
+.precice_levo{
+	padding:20px;
+	word-spacing:100px;
+}
+#okk-ivanjica{
+	width:70px;
+}
+.precice_desno{
+	padding:20px 0px;
+	word-spacing:125px;
+}
+
+a:link{
+	color:#ef4001;
+}
+
+body{
+    background-image:url(slike/pozadina.jpg);
+	background-size:cover;
+	background-position:center;
+}
+
+#idtxtl{
+	margin: 10px 50px;
+	width:250px;
+	background-color:#FFFFFF;
+	opacity: 0.7;
+	float:left;
+}
+
+#idtxtl h1{
+	text-align:center;
+}
+
+#idtxtl h2{
+	text-align:left;
+}
+
+#idtxtc {
+	margin:10px 180px;
+	width:270px;
+	background-color:#FFFFFF;
+	opacity: 0.7;
+	float:left;
+}
+#idtxtc h1{
+	text-align:center;
+}
+#idtxtc h2{
+	text-align:center;
+}
+#idtxtr {
+	margin:9px 50px;
+	width:250px;
+	background-color:#FFFFFF;
+	opacity: 0.7;
+	float:right;
+}
+
+#idtxtr h1{
+	text-align:center;
+}
+#idtxtr h2{
+	text-align:right;
+}
+.slika{
+	background-color: #FFFFFF;
+	height: 1500px;
+}
+.slika h1{
+	text-align: center;
+	padding: 50px;
+}
+.luka{
+	padding: 50px;
+	width: 333px;
+	float: left;
+}
+.veljko{
+	padding-top:50px;
+	width:333px;
+	float: left;
+}
+.momcadija{
+	width: 730px;
+	margin-right: 220px;
+	padding: 50px;
+	float: left;
+}
+.milan{
+	height:600px;
+	float: right;
+}
+
+.istorija{
+	background-color:white;
+	height:300px;
+}
+.istorija h1{
+	text-align:left;
+	padding:22px
+}
+
+.istorija h2{
+	padding:22px;
+}
+
+footer{
+	display: flex;
+    justify-content: space-around;
+	align-items: center;
+    background-color:#ef4001;
+    height:200px;
+	font-size:30px;
+	color:#1578B7;	
+}
+.form{
+	font-size:15px;
+	text-align:left;
+}
+.form #imee{
+	padding:5px;
+}
+.form #imejl{
+	padding:5px;
+}
+.kontakt {
+	font-size: 30px;
+	text-decoration: none;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.kontakt li{
+	margin: 0 10px;
+}
+.kontakt ul{
+	display: flex;
+	list-style-type: none;
+}
+.tabela{
+    margin: 0px auto;
+    text-align: center;
+	font-family: 'Outfit', sans-serif;
+}
+.tabela h1{
+	margin:75px;
+	text-shadow:2px 2px #000;
+}
+.tabela table{
+    border-collapse: collapse;
+	margin:80px;
+}
+.tabela table thead{
+    background-color: rgb(170, 170, 170);
+}
+.tabela table th{
+    padding: 0px 70px;
+	border-right:1px solid black;
+}
+
+.tabela td{
+    border: 1px solid black;
+	background-color:#ef4001;
+}
+
+.tabeladva{
+    margin: 0px auto;
+	padding:0px 70px;
+    text-align: center;
+	font-family: 'Outfit', sans-serif;
+}
+.tabeladva h1{
+	margin:75px;
+	text-shadow:2px 2px #000;
+}
+.tabeladva table{
+    border-collapse: collapse;
+	margin:80px;
+}
+.tabeladva table thead{
+    background-color: rgb(170, 170, 170);
+}
+.tabeladva table th{
+	padding: 0px 70px;
+	border-right:1px solid black;
+}
+
+.tabeladva td{
+    border: 1px solid black;
+	background-color:#02b7f0;
+}
+
+#oautor{
+	padding:50px;
+	width:92.6%;
+	height:500px;
+	background-color:white;
+}
+
+#oautor img{
+	height:444px;
+	width:325px;
+	float:left;
+	padding:20px 175px;
+	position: relative;
+}
+
+.autortxt{
+	float:right;
+	width:40%;
+	overflow-wrap: break-word;
+	margin-top:20px;
+	margin-right:60px;
+}
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	text-decoration: underline;
+}
+
+#face{
+	color:#02b7f0;
+}
+
+#ig{
+	color:#02b7f0;
+}
+
+#tweet{
+	color:#02b7f0;
+}
+
+#yt{
+	color:#02b7f0;
+}
+
+#sitemap{
+	color:#02b7f0;
+}
+
+#rss{
+	color:#02b7f0;
+}
+
+.cleaner{
+	clear:both;
+}
